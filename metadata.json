@@ -1,0 +1,6 @@
+{
+  "name": "Bloc31Admin",
+  "description": "Application mobile-first de gestion d’immeuble pour la résidence AADL 2500 Logts, Oran, Algérie. Gère les cotisations, dépenses, réclamations et rapports en Français et Arabe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
